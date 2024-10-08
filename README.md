@@ -8,3 +8,4 @@ test6
 ip
 IP
 summary outbound
+nothing
